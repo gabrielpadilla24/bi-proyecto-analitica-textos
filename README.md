@@ -87,3 +87,36 @@ Este modelo será utilizado en las siguientes etapas del proyecto para la implem
 - **Naive Bayes Multinomial:** desarrollado por **Juan Pablo Rivera**.  
 - **Regresión Logística:** desarrollada por **Gabriel Padilla**.  
 - **SVM:** implementado y ajustado en conjunto por **Gabriel Padilla y Juan Pablo Rivera**.
+
+---
+
+---
+
+## Sección 5. (8%) Trabajo en equipo
+
+### Roles y responsabilidades
+- **Gabriel Padilla**  
+  - Rol: Líder de proyecto y Líder de negocio.  
+  - Tareas realizadas: Implementación del modelo de **Regresión Logística**, participación conjunta en el modelo **SVM**, procesamiento de los datos, apoyo en la documentación y estructuración de la wiki.  
+  - Tiempo dedicado: ~10 horas.  
+  - Retos enfrentados: Coordinación general del proyecto, reinstalación del kernel de Jupyter y ajuste de dependencias.  
+  - Uso de ChatGPT: Comprensión del problema, desglose de la metodología, apoyo en la escritura en formato Markdown y estructuración de la wiki. Uso de GitHub Copilot para apoyo en sintaxis de programación.
+
+- **Juan Pablo Rivera**  
+  - Rol: Líder de datos y Líder de analítica.  
+  - Tareas realizadas: Implementación del modelo de **Naive Bayes**, participación conjunta en el modelo **SVM**, limpieza de datos, apoyo en la documentación y validación de resultados.  
+  - Tiempo dedicado: ~10 horas.  
+  - Retos enfrentados: Problemas con librerías en el entorno, reinstalación del kernel de Jupyter y resolución de inconsistencias de datos.  
+  - Uso de ChatGPT: Consulta de algoritmos, guía del modelado, explicación de métricas y apoyo en la documentación en Markdown. Uso de GitHub Copilot para asistencia en programación.
+
+### Distribución de puntos
+La distribución de 100 puntos entre los integrantes se realizó de manera equitativa, dado que ambos contribuyeron en partes complementarias del proyecto:
+
+- Gabriel Padilla: **50 puntos**  
+- Juan Pablo Rivera: **50 puntos**
+
+### Puntos a mejorar
+- Optimizar el tiempo de reuniones y coordinación.  
+- Mejorar la organización del repositorio para separar claramente código, datos y documentación.  
+- Ampliar el uso de métricas adicionales para validar los modelos.  
+
